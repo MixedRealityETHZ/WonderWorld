@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: city_hall
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 2722098
+  m_BoundsMin: {x: -19.999977, y: -0.5413209, z: -19.999996}
+  m_BoundsMax: {x: 19.99999, y: 12.576006, z: 19.99999}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: f07efaee27edfdab3feca2628775f561
+  m_PosFormat: 2
+  m_ScaleFormat: 3
+  m_SHFormat: 6
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: 142dd5d519100904aa251d73496104b5, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 117b64a5da7d3004096cbe6c9573ab19, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 6ed0fd35567886249aaa188b89643966, type: 3}
+  m_SHData: {fileID: 4900000, guid: 51bb9a091eaa62649be5b77d37d14bc0, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 6068332147ad80a409f435ddce530074, type: 3}
+  m_Cameras: []

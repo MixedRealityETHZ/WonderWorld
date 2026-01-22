@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: Caesar
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 500000
+  m_BoundsMin: {x: -13.0625, y: -9.0703125, z: -36.0625}
+  m_BoundsMax: {x: 10.6328125, y: 33.40625, z: 19.625}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 847ba8bc7739d7b67dcd2d644136f4a7
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: a645ce7be907e2e4dbafc871cc955ea2, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 4ee1f7c0e178d1548b4dfe5545931ad0, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 46b4c30e16800cf468e17176ad2163b2, type: 3}
+  m_SHData: {fileID: 4900000, guid: ecc08a60bdf44014993c073f5e9556b2, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []

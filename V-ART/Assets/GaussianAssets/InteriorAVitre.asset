@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: InteriorAVitre
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 500000
+  m_BoundsMin: {x: -18.90625, y: -8.4375, z: -5.6445312}
+  m_BoundsMax: {x: 2.921875, y: 5.8867188, z: 9.3125}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 57cae28edf14e190d200dea66be5e9ef
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: 72175bbd7177f524cb69b068d8d8f422, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 0d18ef72e102a7840970782d5dc87cd0, type: 3}
+  m_OtherData: {fileID: 4900000, guid: e3715915c674b4f4b940341bbeb2e6bd, type: 3}
+  m_SHData: {fileID: 4900000, guid: 28cac666c1f3194489581ac13a2f9e93, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []

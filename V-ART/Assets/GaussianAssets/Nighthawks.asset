@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: Nighthawks
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 500000
+  m_BoundsMin: {x: -20.203125, y: -1.0068359, z: -8.203125}
+  m_BoundsMax: {x: 27.671875, y: 16.5625, z: 28.53125}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: c830dcf6ca7c7e5bfd6c5a692ec6d56a
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: b768f5a0322b0854fa2cf2d49d89c3c7, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 50e13611ce8e6864da3345e42b7980d0, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 02ff0b04231fc6a4d845440285c33385, type: 3}
+  m_SHData: {fileID: 4900000, guid: a99ee03fa59bdc840a70012da1647272, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []

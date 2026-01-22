@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38f88b60854129f469f540ae61f241a1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320400
+  packageName: Pin Board Needles
+  packageVersion: 1.0.0
+  assetPath: Assets/TheBossaWorks/Pin Board Needles/Art/Built-in/Materials/Pin Head
+    - Red.mat
+  uploadId: 756856

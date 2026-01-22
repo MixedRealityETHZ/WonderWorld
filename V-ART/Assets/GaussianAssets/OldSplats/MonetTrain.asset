@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: MonetTrain
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 500000
+  m_BoundsMin: {x: -17.265625, y: -1.2294922, z: -28.828125}
+  m_BoundsMax: {x: 8.0859375, y: 9.03125, z: 58.34375}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 9f151547f2537a9d5249e840e10d74f4
+  m_PosFormat: 0
+  m_ScaleFormat: 0
+  m_SHFormat: 0
+  m_ColorFormat: 0
+  m_PosData: {fileID: 4900000, guid: 3c55ee64673e82948b8b6e3c02efde84, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 71ef0dfd3cb93224ab0e3dd214cadd51, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 166db62dc2c6fc44d827b19d697ba489, type: 3}
+  m_SHData: {fileID: 4900000, guid: ad2b7d1869f03664fb9eb66c05b0326a, type: 3}
+  m_ChunkData: {fileID: 0}
+  m_Cameras: []
