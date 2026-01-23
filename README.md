@@ -1,8 +1,8 @@
 # V-ART
 
 ## Overview
-You can find more information in our Final Report [here](https://github.com/wwwjones/V-ART/blob/main/V_ART_Final_Report.pdf)
-You can find our teaser video here: TODO
+You can find more information in our Final Report [here](https://github.com/wwwjones/V-ART/blob/main/V_ART_Final_Report.pdf) <br/>
+You can find our teaser video [here](https://www.youtube.com/watch?v=2O7GKL1rN9Y)
 
 The project started with the simple idea of visualizing 3D worlds created with Gaussian splatting in a Virtual Reality headset. From here, we developed the idea of exploring the worlds depicted in famous works of art, something we envisioned fitting seamlessly into a museum environment. With this basic concept, we performed an initial user study to collect feedback on what features users would like to see in such an app. We aimed to see if there was any interest in the concept, as well as gathering opinions on what users preferred: a fully virtual museum that users could explore from the comfort of their own home, or an augmented reality museum companion app that would improve a real-life museum-going experience. Participants overwhelmingly opted for an augmented reality companion application equipped with features such as museum navigation and painting information, as well as the possibility to view the 3D Gaussian splat worlds.
 
